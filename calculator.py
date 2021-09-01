@@ -173,7 +173,7 @@ def button_exit():
 def query():
     global root1
     root1=Toplevel()
-    root1.title("HISTORY")
+    root1.title("History")
     root1.geometry("400x400")
     root1.iconbitmap("hi.ico")
     # root.configure(bg="black")
